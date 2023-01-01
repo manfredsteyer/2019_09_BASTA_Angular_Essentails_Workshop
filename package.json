@@ -47,6 +47,6 @@
     "ts-node": "~3.3.0",
     "tslint": "~5.8.0",
     "typescript": "3.4.5",
-    "@angular-devkit/build-angular": "~0.801.0"
+    "@angular-devkit/build-angular": "~15.0.4"
   }
 }
